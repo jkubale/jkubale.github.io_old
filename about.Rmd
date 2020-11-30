@@ -1,0 +1,11 @@
+---
+title: "About John"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](pics/boys.jpg){width=50%}
+Outside of work you can generally find me spending time with my amazing partner Elizabeth, tinkering in the workshop, or napping with our cats. Also, go Reds!

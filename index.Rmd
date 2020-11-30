@@ -1,0 +1,39 @@
+---
+title: "John Kubale, PhD"
+description: |
+  Postdoctoral Research Fellow  
+  Department of Epidemiology  
+  University of Michigan School of Public Health  
+  [<i class="fa fa-envelope" aria-hidden="true"></i>](mailto:jkubale@umich.edu)
+  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/john-kubale-382120b4/) [<i class="fab fa-twitter-square"></i>](https://twitter.com/JKubale)
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+# Biography
+![ ](pics/JohnK_Headshot.jpg){width=30%}  
+I am an infectious disease epidemiologist and Postdoctoral Research Fellow working in Dr. Aubree Gordon's lab. My research focuses on respiratory viruses particularly respiratory syncytial virus (RSV) and influenza. Specifically, I am interested in exploring the social, biological, and environmental drivers of severe respiratory illness associated with these pathogens. 
+
+
+# Education
+PhD in Epidemiology, 2020
+University of Michigan
+
+MPH in Epidemiology, 2017
+University of Michigan
+
+B.A. Liberal Arts, 2011
+Xavier University
+
+
+# Skills
+
+
+
+## {.appendix}
+Create using Distill for R Markdown  
+Last updated  `r format(Sys.time(), '%d %B, %Y')`

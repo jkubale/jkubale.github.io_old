@@ -1,0 +1,16 @@
+name: "website"
+title: "John Kubale"
+description: |
+  John Kubale, PhD
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: CV/Kubale_CV_Nov_2020.pdf
+    - text: "Publications"
+      href: pubs.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
