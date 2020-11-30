@@ -5,7 +5,7 @@
       "title": "About John",
       "author": [],
       "contents": "\r\n Outside of work you can generally find me spending time with my amazing partner Elizabeth, tinkering in the workshop, or napping with our cats. Also, go Reds!\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-30T10:24:37-05:00"
+      "last_modified": "2020-11-30T10:33:01-05:00"
     },
     {
       "path": "index.html",
@@ -13,7 +13,7 @@
       "description": "Postdoctoral Research Fellow  \nDepartment of Epidemiology  \nUniversity of Michigan School of Public Health  \n[<i class=\"fa fa-envelope\" aria-hidden=\"true\"><\/i>](mailto:jkubale@umich.edu)\n[<i class=\"fab fa-linkedin\"><\/i>](https://www.linkedin.com/in/john-kubale-382120b4/) [<i class=\"fab fa-twitter-square\"><\/i>](https://twitter.com/JKubale)\n",
       "author": [],
       "contents": "\r\nBiography\r\n\r\nI am an infectious disease epidemiologist and Postdoctoral Research Fellow working in Dr. Aubree Gordon’s lab. My research focuses on respiratory viruses particularly respiratory syncytial virus (RSV) and influenza. Specifically, I am interested in exploring the social, biological, and environmental drivers of severe respiratory illness associated with these pathogens.\r\nEducation\r\nPhD in Epidemiology, 2020 University of Michigan\r\nMPH in Epidemiology, 2017 University of Michigan\r\nB.A. Liberal Arts, 2011 Xavier University\r\n\r\nCreate using Distill for R Markdown\r\nLast updated 30 November, 2020\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-30T10:26:06-05:00"
+      "last_modified": "2020-11-30T10:33:02-05:00"
     },
     {
       "path": "pubs.html",
@@ -21,7 +21,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\nIndividual-Level Association of Influenza Infection with Subsequent Pneumonia: A Case-Control And Prospective Cohort StudyJohn Kubale, Guillermina Kuan, Lionel Gresh, Sergio Ojeda, Amy Schiller, Nery Sanchez, Roger Lopez, Eduardo Azziz-Baumgartner, Steph Wraith, Eva Harris, Angel Balmaseda, Jon Zelner, Aubree Gordon\r\nAssessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, NicaraguaJohn Kubale, Guillermina Kuan, Lionel Gresh, Sergio Ojeda, Eduardo Azziz-Baumgartner, Nery Sanchez, Roger Lopez, Eva Harris, Angel Balmaseda, Aubree Gordon\r\nSimulation models predict that school-age children are responsible for most human-to-mosquito Plasmodium falciparum transmission in southern MalawiJenna E Coalson, Lauren M Cohee, Andrea G Buchwald, Andrew Nyambalo, John Kubale, Karl B Seydel, Don Mathanga, Terrie E Taylor, Miriam K Laufer, Mark L Wilson\r\nAnalyses of infectious disease patterns and drivers largely lack insights from social epidemiology: contemporary patterns and future opportunitiesGrace A Noppert, John T Kubale, Mark L Wilson\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-30T10:24:39-05:00"
+      "last_modified": "2020-11-30T10:33:03-05:00"
     }
   ],
   "collections": []
