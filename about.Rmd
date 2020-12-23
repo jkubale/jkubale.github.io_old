@@ -1,6 +1,6 @@
 ---
 title: "About John"
-draft:true
+draft: true
 ---
 
 ```{r setup, include=FALSE}
