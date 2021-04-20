@@ -1,38 +1,33 @@
 ---
-title: "John Kubale, MPH, PhD"
-description: |
-  Postdoctoral Research Fellow  
-  Department of Epidemiology  
-  University of Michigan School of Public Health  
-  [<i class="fa fa-envelope" aria-hidden="true"></i>](mailto:jkubale@umich.edu)
-  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/john-kubale-382120b4/) [<i class="fab fa-twitter-square"></i>](https://twitter.com/JKubale)
+title: "John Kubale"
+image: "pics/JohnK_Headshot.jpg"
+links:
+  - label: [<i class="fab fa-linkedin"></i>]
+    url: "https://www.linkedin.com/in/john-kubale-382120b4/"
+  - label: [<i class="fab fa-twitter-square"></i>]
+    url: "https://twitter.com/JKubale"
+  - label: [<i class="fa fa-envelope" aria-hidden="true"></i>]
+    url: "mailto:jkubale@umich.edu"
 site: distill::distill_website
+output:
+  postcards::trestles
 ---
+ 
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+I'm an infectious disease epidemiologist and Postdoctoral Research Fellow working in Dr. Aubree Gordon's lab at the University of Michigan. My research focuses on respiratory viruses particularly respiratory syncytial virus (RSV) and influenza. Specifically, I am interested in exploring the social, biological, and environmental drivers of severe respiratory illness associated with these pathogens. 
 
-```
+## Education
 
-# Biography
-![ ](pics/JohnK_Headshot.jpg){width=30%}  
-I am an infectious disease epidemiologist and Postdoctoral Research Fellow working in Dr. Aubree Gordon's lab. My research focuses on respiratory viruses particularly respiratory syncytial virus (RSV) and influenza. Specifically, I am interested in exploring the social, biological, and environmental drivers of severe respiratory illness associated with these pathogens. 
-
-
-# Education
 PhD in Epidemiology, 2020
-University of Michigan
+**University of Michigan**
 
 MPH in Epidemiology, 2017
-University of Michigan
+**University of Michigan**
 
 B.A. Liberal Arts, 2011
-Xavier University
+**Xavier University**
 
 
 <a class="twitter-timeline" data-width="300" data-height="300" href="https://twitter.com/JKubale?ref_src=twsrc%5Etfw">Tweets by JKubale</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-## {.appendix}
-Create using Distill for R Markdown  
-Last updated  `r format(Sys.time(), '%d %B, %Y')`
