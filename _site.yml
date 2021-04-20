@@ -2,7 +2,7 @@ name: "website"
 title: "John Kubale"
 description: |
   John Kubale, MPH, PhD
-output_dir: "."
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
