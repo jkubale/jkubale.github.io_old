@@ -23,4 +23,5 @@ output: distill::distill_article
 <!-- <div class="row justify-content-center align-items-center"> -->
 <div class="col-8 text-center d-none d-sm-block">
 [<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/32717069/)
+[<button type="button" class="btn btn-outline-dark mb-2">PDF</button>](pubs/kubale_cidpneumo2020.pdf)
 </div>
