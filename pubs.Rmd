@@ -11,7 +11,7 @@ library(knitr)
 
 ```
 
-[<font size="4">Pneumonia following symptomatic influenza infection among Nicaraguan children before and after introduction of the pneumococcal conjugate vaccine</font>](jid2020.html)
+[<font size="4">Pneumonia following symptomatic influenza infection among Nicaraguan children before and after introduction of the pneumococcal conjugate vaccine</font>](jid2020.html)  
 <font size="2">**John Kubale**, Angel Balmaseda, Nery Sanchez, Roger Lopez, Lionel Gresh, Sergio Ojeda, Eva Harris, Guillermina Kuan, Jon Zelner, Aubree Gordon</font>
 
 
