@@ -1,0 +1,26 @@
+---
+title: "Publications"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+
+<!-- <div class="container min-vh-100"> -->
+<!-- <div class="row min-vh-100 justify-content-center align-items-center"> -->
+<div class="col-12 text-center">![](pics/pneumo_rp.png){width=50%}
+<!-- <div class="mt-3"> -->
+</div>
+<font size="5">
+**Individual-Level Association of Influenza Infection with Subsequent  Pneumonia: A Case-Control And Prospective Cohort Study**
+</font>
+
+<font size="3">
+<div class="row justify-content-center align-items-center">
+<div class="col-5 mt-3 text-center d-none d-sm-block">
+**John Kubale**, Guillermina Kuan, Lionel Gresh, Sergio Ojeda, Amy Schiller, Nery Sanchez, Roger Lopez, Eduardo Azziz-Baumgartner, Steph Wraith, Eva Harris, Angel Balmaseda, Jon Zelner, Aubree Gordon
+</font>
+<!-- * * * -->
+<!-- <div class="row justify-content-center align-items-center"> -->
+<div class="col-8 text-center d-none d-sm-block">
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/32717069/)
+</div>

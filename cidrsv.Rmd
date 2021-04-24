@@ -1,0 +1,26 @@
+---
+title: "Publications"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+
+<!-- <div class="container min-vh-100"> -->
+<!-- <div class="row min-vh-100 justify-content-center align-items-center"> -->
+<div class="col-12 text-center">![](pics/rsv_seas.png){width=100%}
+<!-- <div class="mt-3"> -->
+</div>
+<font size="5">
+**Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, Nicaragua**
+</font>
+
+<font size="3">
+<div class="row justify-content-center align-items-center">
+<div class="col-5 mt-3 text-center d-none d-sm-block">
+**John Kubale**, Guillermina Kuan, Lionel Gresh, Sergio Ojeda, Eduardo Azziz-Baumgartner, Nery Sanchez, Roger Lopez, Eva Harris, Angel Balmaseda, Aubree Gordon
+</font>
+<!-- * * * -->
+<!-- <div class="row justify-content-center align-items-center"> -->
+<div class="col-8 text-center d-none d-sm-block">
+[<button type="button" class="btn btn-outline-dark mb-2">PubMed</button>](https://pubmed.ncbi.nlm.nih.gov/31257406/)
+</div>

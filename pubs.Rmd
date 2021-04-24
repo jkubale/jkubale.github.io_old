@@ -4,24 +4,25 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=F}
 knitr::opts_chunk$set(echo = FALSE)
 library(rmarkdown)
 library(knitr)
 
 ```
 
-[<font size="4">Pneumonia following symptomatic influenza infection among Nicaraguan children before and after introduction of the pneumococcal conjugate vaccine</font>](https://pubmed.ncbi.nlm.nih.gov/33351091/)<font size="2">**John Kubale**, Angel Balmaseda, Nery Sanchez, Roger Lopez, Lionel Gresh, Sergio Ojeda, Eva Harris, Guillermina Kuan, Jon Zelner, Aubree Gordon</font>
-<aside>![](pics/flu_pneumo.PNG){width=100%}</aside>
+[<font size="4">Pneumonia following symptomatic influenza infection among Nicaraguan children before and after introduction of the pneumococcal conjugate vaccine</font>](jid2020.html)
+<font size="2">**John Kubale**, Angel Balmaseda, Nery Sanchez, Roger Lopez, Lionel Gresh, Sergio Ojeda, Eva Harris, Guillermina Kuan, Jon Zelner, Aubree Gordon</font>
 
-[<font size="4">Individual-Level Association of Influenza Infection with Subsequent  Pneumonia: A Case-Control And Prospective Cohort Study</font>](https://pubmed.ncbi.nlm.nih.gov/32717069/)  
+
+[<font size="4">Individual-Level Association of Influenza Infection with Subsequent  Pneumonia: A Case-Control And Prospective Cohort Study</font>](cidpneumo.html)  
 <font size="2">**John Kubale**, Guillermina Kuan, Lionel Gresh, Sergio Ojeda, Amy Schiller, Nery Sanchez, Roger Lopez, Eduardo Azziz-Baumgartner, Steph Wraith, Eva Harris, Angel Balmaseda, Jon Zelner, Aubree Gordon</font>
-<aside>![](pics/pneumo_rp.png){width=100%}</aside>
 
 
-[<font size="4">Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, Nicaragua</font>](https://pubmed.ncbi.nlm.nih.gov/31257406/)  
+
+[<font size="4">Assessing the Incidence of Symptomatic Respiratory Syncytial Virus Illness Within a Prospective Birth Cohort in Managua, Nicaragua</font>](cidrsv.html)  
 <font size="2">**John Kubale**, Guillermina Kuan, Lionel Gresh, Sergio Ojeda, Eduardo Azziz-Baumgartner, Nery Sanchez, Roger Lopez, Eva Harris, Angel Balmaseda, Aubree Gordon</font>
-<aside>![](pics/rsv_seas.png){width=100%}</aside>
+
 
 
 [<font size="4">Simulation models predict that school-age children are responsible for most  human-to-mosquito Plasmodium falciparum transmission in southern Malawi</font>](https://pubmed.ncbi.nlm.nih.gov/29615044/)    
