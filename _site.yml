@@ -1,5 +1,6 @@
 name: "website"
 title: "John Kubale"
+# theme: theme_test.css
 description: |
   John Kubale, MPH, PhD
 output_dir: "docs"
@@ -11,4 +12,8 @@ navbar:
       href: CV/Kubale_CV_Nov_2021.pdf
     - text: "Publications"
       href: pubs.html
-output: distill::distill_article
+output:
+  distill::distill_article:
+    includes:
+      in_header:
+      - header.html

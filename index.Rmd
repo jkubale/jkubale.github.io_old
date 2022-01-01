@@ -8,10 +8,16 @@ links:
     url: "https://twitter.com/JKubale"
   - label: [<i class="fa fa-envelope" aria-hidden="true"></i>]
     url: "mailto:jkubale@umich.edu"
+  - label: [<i class="ai ai-google-scholar-square"></i>]
+    url: "https://scholar.google.com/citations?user=9YDzqIUAAAAJ&hl=en&oi=ao"
+
+  
 site: distill::distill_website
 output:
-  postcards::trestles
+ postcards::trestles
+  
 ---
+
  
 ## Bio
 
